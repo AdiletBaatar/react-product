@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "title": "js ev 9",
+      "description": "",
+      "price": "1600",
+      "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
+      "id": 6
+    },
+    {
+      "title": "",
+      "description": "",
+      "price": "",
+      "image": "",
+      "id": 7
+    },
+    {
+      "title": "",
+      "description": "",
+      "price": "",
+      "image": "",
+      "id": 8
+    },
+    {
+      "title": "qwq",
+      "description": "wqwq",
+      "price": "qwqw",
+      "image": "qwqw",
+      "id": 9
+    }
+  ]
+}
